@@ -10,7 +10,7 @@ Let there be an agent with a racket it can move along its side of the court betw
 
 The project is based on Unity's Tennis environment.
 
-![trained agents](assets/trained agents.gif)
+![trained agents](./assets/trained agents.gif)
 
 
 
